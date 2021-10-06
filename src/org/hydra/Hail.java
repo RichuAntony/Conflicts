@@ -14,8 +14,10 @@ public class Hail {
 	}
 	private void thor() {
 		System.out.println("thor");
+
 		System.out.println("new joinee B");
-		
+		System.out.println("New joinee A");
+
 	}
 	public static void main(String[]args) {
 		Hail a=new Hail();
@@ -24,5 +26,6 @@ public class Hail {
 		a.thor();
 		
 	}
+	
 
 }
