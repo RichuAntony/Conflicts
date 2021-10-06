@@ -14,6 +14,7 @@ public class Hail {
 	}
 	private void thor() {
 		System.out.println("thor");
+		System.out.println("new joinee B");
 		
 	}
 	public static void main(String[]args) {
